@@ -6,3 +6,4 @@ goblins
 naga
 mulocs
 dwarves
+gnomes
