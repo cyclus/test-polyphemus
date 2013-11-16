@@ -5,3 +5,4 @@ undead
 goblins
 naga
 mulocs
+dwarves
