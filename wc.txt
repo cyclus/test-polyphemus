@@ -4,3 +4,4 @@ night elves
 undead
 goblins
 naga
+mulocs
