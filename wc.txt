@@ -3,3 +3,4 @@ humans
 night elves
 undead
 goblins
+naga
