@@ -27,3 +27,4 @@ ered'ruin
 eredar
 flametounge
 furbolg
+gnoll
