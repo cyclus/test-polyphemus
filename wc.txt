@@ -25,3 +25,4 @@ annihilan
 dragon
 ered'ruin
 eredar
+flametounge
