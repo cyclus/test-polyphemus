@@ -30,3 +30,4 @@ furbolg
 gnoll
 gryphon
 harpy
+hippogryph
