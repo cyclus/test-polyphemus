@@ -18,3 +18,4 @@ ogre
 scorpion
 satyr
 ents
+centaur
