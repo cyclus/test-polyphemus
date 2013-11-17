@@ -31,3 +31,4 @@ gnoll
 gryphon
 harpy
 hippogryph
+kobold
