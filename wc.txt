@@ -11,3 +11,4 @@ troll
 blood elves
 demons
 pandas
+wargen
