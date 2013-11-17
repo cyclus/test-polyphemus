@@ -21,3 +21,4 @@ ents
 centaur
 magnataur
 nerubians
+annihilan
