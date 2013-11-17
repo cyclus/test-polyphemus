@@ -15,3 +15,4 @@ wargen
 draenei
 tauren
 ogre
+scorpion
