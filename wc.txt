@@ -9,3 +9,4 @@ dwarves
 gnomes
 troll
 blood elves
+demons
