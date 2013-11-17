@@ -13,3 +13,4 @@ demons
 pandas
 wargen
 draenei
+tauren
