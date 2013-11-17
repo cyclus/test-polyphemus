@@ -29,3 +29,4 @@ flametounge
 furbolg
 gnoll
 gryphon
+harpy
