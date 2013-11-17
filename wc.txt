@@ -20,3 +20,4 @@ satyr
 ents
 centaur
 magnataur
+nerubians
