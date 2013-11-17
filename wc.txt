@@ -12,3 +12,4 @@ blood elves
 demons
 pandas
 wargen
+draenei
