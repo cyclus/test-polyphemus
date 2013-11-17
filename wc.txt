@@ -8,3 +8,4 @@ mulocs
 dwarves
 gnomes
 troll
+blood elves
