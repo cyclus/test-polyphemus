@@ -28,3 +28,4 @@ eredar
 flametounge
 furbolg
 gnoll
+gryphon
