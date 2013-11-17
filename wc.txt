@@ -10,3 +10,4 @@ gnomes
 troll
 blood elves
 demons
+pandas
