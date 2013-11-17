@@ -14,3 +14,4 @@ pandas
 wargen
 draenei
 tauren
+ogre
