@@ -16,3 +16,4 @@ draenei
 tauren
 ogre
 scorpion
+satyr
