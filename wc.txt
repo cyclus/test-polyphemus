@@ -32,3 +32,4 @@ gryphon
 harpy
 hippogryph
 kobold
+elemental
