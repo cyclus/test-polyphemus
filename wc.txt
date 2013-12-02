@@ -33,3 +33,4 @@ harpy
 hippogryph
 kobold
 elemental
+magnataur
