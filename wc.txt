@@ -34,3 +34,4 @@ hippogryph
 kobold
 elemental
 magnataur
+mo'ag
