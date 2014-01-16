@@ -1,0 +1,37 @@
+orcs
+humans
+night elves
+undead
+goblins
+naga
+mulocs
+dwarves
+gnomes
+troll
+blood elves
+demons
+pandas
+wargen
+draenei
+tauren
+ogre
+scorpion
+satyr
+ents
+centaur
+magnataur
+nerubians
+annihilan
+dragon
+ered'ruin
+eredar
+flametounge
+furbolg
+gnoll
+gryphon
+harpy
+hippogryph
+kobold
+elemental
+magnataur
+mo'ag
